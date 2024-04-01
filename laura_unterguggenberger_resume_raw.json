@@ -1,0 +1,109 @@
+{
+  "name": "Laura Unterguggenberger",
+  "phone": "(510) 890-6433",
+  "email": "laura.unterguggenberger@gmail.com",
+  "version": "April 2023",
+  "summary": "Software Engineering professional with a background in Computer Science and over 15 years of taking ownership of building first-class features and tools in engaging and collaborative Agile environments.",
+  "experience": [
+    {
+      "company": "PATHPOINT",
+      "title": "Senior Engineer",
+      "time period": "October 2020 - Present",
+      "bullets": [
+        "Building new capabilities into the Golang logic service to be able to quickly generate pdfs and signed documents to increase the time to complete agent submissions.",
+        "Developed high-quality, scalable APIs using Golang and AWS.\nAdding gRPC communication to increase type safety and ease of development accelerating services for large account partner integrations.",
+        "Mentoring and guiding junior engineers on technical direction, helping build project collateral, and influencing stakeholders.\nSoftware Engineer"
+      ]
+    },
+    {
+      "company": "FUTURE RESEARCH",
+      "title": "Software Engineer",
+      "time period": "March 2019 - April 2020",
+      "bullets": [
+        "Backend Golang developer building RESTful APIs on AWS focus for a personal fitness coaching app, focused on reducing the cognitive overhead for our fitness coaches, creating workflows to increase average client capacity including automating scheduling the initial strategy call, automating tasks reminding coaches of client completed workout-app goal tracking features.\nStaff Software Engineer"
+      ]
+    },
+    {
+      "company": "PIVOTAL",
+      "title": "Staff Engineer",
+      "time period": "January 2018 - March 2019",
+      "bullets": [
+        "Enabling independent software vendor (ISV) developer efficiency by increasing time to market of their Pivotal installation packages by making improvements to the React/Redux dashboard of the CI/CD Python service using TDD and pair programming.",
+        "Supporting ISV developers building Kubernetes solutions on PKS to spin up Kubernetes clusters on the Platform Engineering team Google Cloud Platform GCP environment (Golang, and ReactJS/Redux).",
+        "Understanding of Kubernetes to lead inception and planning with Pivotal's security partner integrations with PKS Pivotal ContainerService, now VMware Tanzu.",
+        "Exposer to modern Cloud Native applications: Istio service mesh and Helm Charts.",
+        "As part of the pioneering mandate of the Platform team, investigate ways to handling ingres and routing for Kubernetes"
+      ]
+    },
+    {
+      "company": "JIFF",
+      "title": "Senior Engineer",
+      "time period": "October 2020 - Present",
+      "bullets": [
+        "Lead backend engineer for Jiffinity Rewards Center and Registration 2.0. Monitored application performance and Ruby Microservices.\n Senior Software Engineer"
+      ]
+    },
+    {
+      "company": "DELIV, INC",
+      "title": "Senior Engineer",
+      "time period": "May 2015 - December 2016",
+      "bullets": [
+        "reated social experiences using Facebook and developed an API and SDK to scale development and deployment of feature requests. Embedded Software Engineer"
+      ]
+    },
+    {
+      "company": "LEEO, INC",
+      "title": "Embedded Software Engineer",
+      "time period": "February 2014 - April 2015",
+      "bullets": [
+        "Drove digital signal processing efforts to distinguish T3 smoke and T4 carbon monoxide alerts in the home, triggering notifications to the backend server and mobile applications with Pubnub cloud services",
+        "Development of the API for communication between iOS, and the Leeo Nightlight embedded system using Grape and Rabl, and RESTful APIs (Ruby on Rails, Node.js)"
+      ]
+    },
+    {
+      "company": "MILYONI, INC",
+      "title": "Software Engineer",
+      "time period": "March 2013 - February 2014",
+      "bullets": [
+        "Created social experiences using Facebook and Facebook OpenGraph, Twitter, and Google+ Javascript APIs, pusher to send real-time updates, and Node.js and MongoDB for handling streaming chat messages.",
+        "Developed an API and SDK to scale development and deployment of feature requests empowering users to employ custom social widgets that fit their own needs quickly in their own website domain using TDD and pair programming"
+      ]
+    },
+    {
+      "company": "EMPOWERED CAREERS",
+      "title": "Software Engineer",
+      "time period": "October 2011 - December 2012",
+      "bullets": [
+        "Using an open-source Ruby on Rails project Canvas API calls to integrate with PHP Messaging System for use in the client iPad app with data stored in MongoDB.",
+        "Wearing multiple hats developed the Salesforce object model and setup Jenkins for build and testing.",
+        "Set up and maintain Jenkins for automated tested"
+      ]
+    },
+    {
+      "company": "MICROSEMI CORPORATION",
+      "title": "Lead QA Engineer",
+      "time period": "October 2020 - Present",
+      "bullets": [
+        "Lead black box and white box testing for a schematic design editor tool with knowledge of project code base for developing testing hooks, unit tests in C++ and shell.",
+        "Maintain a robust distributed CI/CD application in Ruby on Rails. Education"
+      ]
+    }
+  ],
+  "skills": [
+    "Application Deployment with Golang and GraphQL",
+    "Application and Server Monitoring",
+    "AWS Cloud Watch, RDS, API Gateway",
+    "Pivotal Cloud Foundry",
+    "Kubernetes",
+    "Continuous Integration and deployment",
+    "Postgres",
+    "Ruby on Rails",
+    "ReactJS",
+    "Strong Agile Work Processes and TDD"
+  ],
+  "education": {
+    "level": "BS In Computer Science",
+    "school": "San Jose State University",
+    "year": 2006
+  }
+}
