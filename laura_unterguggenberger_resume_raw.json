@@ -13,7 +13,7 @@
       "title": "Senior Engineer",
       "time period": "October 2020 - Present",
       "bullets": [
-        "Spearheaded the Carrier Logic integrations using Golang, reducing onboarding time for new carriers from 6 months to a matter of months by automating the translation of carrier rules into a dynamic question generation system.",
+        "Spearheaded rearchitecting the Carrier Logic integrations rules engine using Golang, reducing onboarding time for new carriers from 6 months to a matter of months by simplifying automating the translation of carrier rules into a more concise DSL format.",
         "Implemented microservice scaling and security enhancements, including in-memory caching and gRPC, supporting a 5x increase in user acquisition and revenue-generating submissions.",
         "Mentored junior engineers, improving project design, documentation, and stakeholder engagement."
       ]
